@@ -28,7 +28,7 @@ Usage
 
 (1) Calculation of the distance of phage contigs to the temperate and lytic phages using d2S and d2*.
 
-First, one can download the k-tuples for temperate and lytic phages from “/trained_model/”, then, put the four files of trained Markov models in the directory:
+First, one can download the k-tuples for temperate and lytic phages from “/trained_model/”:
 
 # <path_to_the_PhagePred>/PhagePred/trained_model/
 
